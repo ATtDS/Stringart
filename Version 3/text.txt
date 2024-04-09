@@ -1,0 +1,1 @@
+Fixat lite med r channel not available och nu funkar analyse delen. 
