@@ -1,0 +1,1 @@
+Arc breaker för att ta bort g2 g3 kommandon
