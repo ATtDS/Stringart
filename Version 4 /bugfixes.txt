@@ -1,0 +1,1 @@
+A bug was fixed that was resulting in strinpath not respecting minimum distances. 
