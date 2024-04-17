@@ -1,0 +1,602 @@
+[
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.3217053718254206,
+        "nailDistMin": 22.52164692820206,
+        "nailDistMax": 44.422399650970355,
+        "edgeThreshold": 0.18881966609695028,
+        "maxSegmentConnect": 2.8742404346077732,
+        "maxConnectsPerNail": 5.311174715815182,
+        "blurAmount": 2.10627989566016,
+        "img_contrast": 1.4720189035753117,
+        "img_brightness": 0.9761006178177033,
+        "img_invert": 0.3155650473133167,
+        "maxIterations": 6394.022603003622
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.2711952657078824,
+        "nailDistMin": 23.74956571282935,
+        "nailDistMax": 30.338813816668488,
+        "edgeThreshold": 0.16770943256859383,
+        "maxSegmentConnect": 2.759267009594561,
+        "maxConnectsPerNail": 9.127732924213495,
+        "blurAmount": 2.5313256403206337,
+        "img_contrast": 0.7461187635821153,
+        "img_brightness": 0.7178470732393358,
+        "img_invert": 0.34296232260983195,
+        "maxIterations": 5577.459364322116
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.2623615023197554,
+        "nailDistMin": 23.596202895906394,
+        "nailDistMax": 43.75854222080607,
+        "edgeThreshold": 0.16498088972566494,
+        "maxSegmentConnect": 1.7570321692030655,
+        "maxConnectsPerNail": 6.0570796591750335,
+        "blurAmount": 1.081515775073826,
+        "img_contrast": 1.072993184766608,
+        "img_brightness": 0.7185692372026153,
+        "img_invert": 0.8887981574777779,
+        "maxIterations": 3166.04575680095
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.3658881725202122,
+        "nailDistMin": 18.200838686087668,
+        "nailDistMax": 37.82337566117978,
+        "edgeThreshold": 0.21218203768391591,
+        "maxSegmentConnect": 3.670672228083437,
+        "maxConnectsPerNail": 4.93887628057195,
+        "blurAmount": 2.4069240607104536,
+        "img_contrast": 0.7758588193550715,
+        "img_brightness": 0.5789155558175156,
+        "img_invert": 0.23931054160401055,
+        "maxIterations": 3343.928103599298
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.15307229119779747,
+        "nailDistMin": 23.063687123756146,
+        "nailDistMax": 42.5209678453684,
+        "edgeThreshold": 0.14608413203051068,
+        "maxSegmentConnect": 1.4160079462359945,
+        "maxConnectsPerNail": 8.72567248070257,
+        "blurAmount": 1.4687549907361994,
+        "img_contrast": 0.9707897387948671,
+        "img_brightness": 0.5403901795940547,
+        "img_invert": 0.45690479889977764,
+        "maxIterations": 2434.4041326390316
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.31643092672557926,
+        "nailDistMin": 19.61440468703284,
+        "nailDistMax": 35.096508022307745,
+        "edgeThreshold": 0.0995119591447423,
+        "maxSegmentConnect": 3.54401261658069,
+        "maxConnectsPerNail": 9.31090151326594,
+        "blurAmount": 1.8663964364414563,
+        "img_contrast": 1.315634783682098,
+        "img_brightness": 0.7001238762939147,
+        "img_invert": 0.6705663915333459,
+        "maxIterations": 2139.14888593507
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.12065384429640284,
+        "nailDistMin": 23.85924828640541,
+        "nailDistMax": 46.26167770323003,
+        "edgeThreshold": 0.28897696315889887,
+        "maxSegmentConnect": 1.1793913315426736,
+        "maxConnectsPerNail": 5.736745709567577,
+        "blurAmount": 2.85190624589439,
+        "img_contrast": 0.6099815048167259,
+        "img_brightness": 1.4253985332398869,
+        "img_invert": 0.688595852584916,
+        "maxIterations": 6316.696436773079
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.10989342489036709,
+        "nailDistMin": 21.94227703244805,
+        "nailDistMax": 32.39391197877303,
+        "edgeThreshold": 0.146448193146766,
+        "maxSegmentConnect": 3.280844328966975,
+        "maxConnectsPerNail": 4.029137954806462,
+        "blurAmount": 7.322449428514886,
+        "img_contrast": 1.4843918728271752,
+        "img_brightness": 1.0110336971321034,
+        "img_invert": 0.47812678579103685,
+        "maxIterations": 3438.025854671642
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.21941032895667312,
+        "nailDistMin": 20.920830883627776,
+        "nailDistMax": 49.90450345984591,
+        "edgeThreshold": 0.1751450577662424,
+        "maxSegmentConnect": 2.7433646585178555,
+        "maxConnectsPerNail": 8.090073386033234,
+        "blurAmount": 5.3545169525860565,
+        "img_contrast": 1.030930943401653,
+        "img_brightness": 0.6028783008402919,
+        "img_invert": 0.17634868870484244,
+        "maxIterations": 5944.657320984712
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.38580784527042,
+        "nailDistMin": 19.131011041147715,
+        "nailDistMax": 47.15326386802154,
+        "edgeThreshold": 0.11689299232631552,
+        "maxSegmentConnect": 3.575993802145301,
+        "maxConnectsPerNail": 8.178403329703155,
+        "blurAmount": 3.4372407520498163,
+        "img_contrast": 1.4724105678048307,
+        "img_brightness": 0.9635013891105286,
+        "img_invert": 0.454326775700991,
+        "maxIterations": 3903.9380097733956
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.2688318204142701,
+        "nailDistMin": 18.017962198468894,
+        "nailDistMax": 35.74412509957919,
+        "edgeThreshold": 0.11005260486702768,
+        "maxSegmentConnect": 2.3367476406402385,
+        "maxConnectsPerNail": 7.541183060853533,
+        "blurAmount": 7.079071244653529,
+        "img_contrast": 0.963410689901311,
+        "img_brightness": 1.2373245431268858,
+        "img_invert": 0.7087352565625175,
+        "maxIterations": 3884.624207070195
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.26591181649428963,
+        "nailDistMin": 22.219521778479674,
+        "nailDistMax": 38.28252196830992,
+        "edgeThreshold": 0.22568666542828963,
+        "maxSegmentConnect": 2.427418649458852,
+        "maxConnectsPerNail": 4.889200620447189,
+        "blurAmount": 5.060203216873821,
+        "img_contrast": 1.1499217669098718,
+        "img_brightness": 0.6598357404033524,
+        "img_invert": 0.042503145523759556,
+        "maxIterations": 6891.748869683332
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.2685117229860542,
+        "nailDistMin": 23.826106086486003,
+        "nailDistMax": 49.47845515035864,
+        "edgeThreshold": 0.07904680037428387,
+        "maxSegmentConnect": 1.8868561588154247,
+        "maxConnectsPerNail": 5.110437873814947,
+        "blurAmount": 3.1555054819840693,
+        "img_contrast": 1.3981162066540318,
+        "img_brightness": 0.5605160969802221,
+        "img_invert": 0.886816575917152,
+        "maxIterations": 4883.9890516870755
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.14249591913328244,
+        "nailDistMin": 19.947119341878604,
+        "nailDistMax": 41.70718596137048,
+        "edgeThreshold": 0.2416964355761087,
+        "maxSegmentConnect": 2.0717304928695124,
+        "maxConnectsPerNail": 3.837572626263765,
+        "blurAmount": 6.660903870923223,
+        "img_contrast": 1.1447679875079562,
+        "img_brightness": 1.091206320527385,
+        "img_invert": 0.7055675996039462,
+        "maxIterations": 6866.272456754166
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.3519370698272116,
+        "nailDistMin": 23.1995309426976,
+        "nailDistMax": 33.41965940397247,
+        "edgeThreshold": 0.2679016994814207,
+        "maxSegmentConnect": 1.2487048922241848,
+        "maxConnectsPerNail": 4.674310791015773,
+        "blurAmount": 7.386602932628004,
+        "img_contrast": 1.1921085163333425,
+        "img_brightness": 0.5549597788987514,
+        "img_invert": 0.23376519932517414,
+        "maxIterations": 3769.964258609518
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.2472277492548325,
+        "nailDistMin": 18.83774598097794,
+        "nailDistMax": 39.99838418398504,
+        "edgeThreshold": 0.2311404683330311,
+        "maxSegmentConnect": 1.0472721167812389,
+        "maxConnectsPerNail": 5.7979259996794035,
+        "blurAmount": 2.4243435357021177,
+        "img_contrast": 1.2708396655083927,
+        "img_brightness": 1.10038316934296,
+        "img_invert": 0.9187397648059681,
+        "maxIterations": 4530.3998488843245
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.32916944110883073,
+        "nailDistMin": 19.184364135210572,
+        "nailDistMax": 47.36076058683715,
+        "edgeThreshold": 0.2115650833401459,
+        "maxSegmentConnect": 3.663057152442591,
+        "maxConnectsPerNail": 8.563446964411284,
+        "blurAmount": 5.722446570601866,
+        "img_contrast": 1.1924197263679477,
+        "img_brightness": 0.5385518739584172,
+        "img_invert": 0.7276012826446382,
+        "maxIterations": 6206.332894267214
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.18098278063280443,
+        "nailDistMin": 20.751677004103904,
+        "nailDistMax": 35.720246798598964,
+        "edgeThreshold": 0.05714606707532803,
+        "maxSegmentConnect": 3.72796164203144,
+        "maxConnectsPerNail": 6.691930803480679,
+        "blurAmount": 6.532685484029862,
+        "img_contrast": 1.0059372689218824,
+        "img_brightness": 0.7685539764658607,
+        "img_invert": 0.22692507723963162,
+        "maxIterations": 2321.6539255145995
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.17414653262301677,
+        "nailDistMin": 21.991492299940198,
+        "nailDistMax": 47.364265645318255,
+        "edgeThreshold": 0.09884712778067574,
+        "maxSegmentConnect": 2.9376976574764395,
+        "maxConnectsPerNail": 4.483788242186758,
+        "blurAmount": 7.642165091377918,
+        "img_contrast": 1.0980532285959512,
+        "img_brightness": 0.787305300556647,
+        "img_invert": 0.9618354091593654,
+        "maxIterations": 5529.2822206554165
+    },
+    {
+        "proc_width": 600,
+        "proc_height": 600,
+        "ppi": 0.0005,
+        "backgroundColor": 0,
+        "currentPoint": 0,
+        "lastPoint": -1,
+        "start_at": [
+            0.5,
+            0
+        ],
+        "inputImagePath": "ada.png",
+        "edgesImagePath": "edges.jpeg",
+        "threadColor": [
+            255,
+            160
+        ],
+        "nailDiameter": 3.0,
+        "searchRadius": 0.2340870104736344,
+        "nailDistMin": 18.816840919114973,
+        "nailDistMax": 40.10614129333551,
+        "edgeThreshold": 0.25105551536254733,
+        "maxSegmentConnect": 1.3824532060852612,
+        "maxConnectsPerNail": 4.788751226792625,
+        "blurAmount": 6.554236944564451,
+        "img_contrast": 0.678597081223589,
+        "img_brightness": 1.406256901109183,
+        "img_invert": 0.10027751794073014,
+        "maxIterations": 4250.058810063878
+    }
+]
